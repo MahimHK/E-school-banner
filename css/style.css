@@ -1,0 +1,80 @@
+
+
+
+/* Common Start */
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #413960;
+}
+
+/* Common End */
+
+/* Header Start */
+header {
+    background: #F0FFF0;
+    padding: 5px 0;
+}
+
+.c_nav {}
+
+.logo {}
+
+.menu {}
+
+.menu ul li a {
+    font-weight: 500;
+    color: #413960 !important;
+    text-transform: capitalize;
+    padding: 0 24px !important;
+}
+
+.menu ul li a:hover {
+    color: #FD511A;
+}
+
+.btn_sign_in {
+    font-family: 'Roboto', sans-serif;
+    padding: 12px 28px;
+    background: #21B573;
+    color: #FFFFFF;
+    border-radius: 33px;
+}
+
+.btn_sign_in:hover {
+    background: #FD511A;
+    color: #FFFFFF;
+}
+
+/* Header End */
+/*banner start*/
+
+.banner{
+	background-color: #F0FFF0;
+}
+.b_text{
+
+}
+.b_red{
+	color: #FD511A;
+	line-height: 24px;
+}
+.b_h1{
+	margin: 10px 0 20px;
+	font-size: 48px;
+	font-weight: 700;
+	color: #000000;
+	line-height: 70px;
+	padding-right: 100px;
+}
+.b_h1 span{
+	color: #21B573;
+}
+.bg-black{
+	line-height: 36px;
+}
+.btn_banner{
+	margin: 15px;
+	padding: 12px 36px;
+}
